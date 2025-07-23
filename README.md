@@ -7,6 +7,8 @@ hashcash is a wifi based cryptocurrency miner with the ability to mine mh/s powe
 
 to increase payout you must edit this rate code 
 
+Set up rate based on giving block you desire rate of mhs of 2000 avarge for phones by payout of $300 per block set this amount to rate you wish to multiply block hash reward 
+
 const payout = (rate / 2000) * 300;
 
 
