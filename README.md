@@ -8,7 +8,7 @@ hash cash also has the ability to set up a custom blockchain if you tweak either
 
 Hash Cash can be set up on a computer on a tablet or mobile device network and mobile network mining through block hashing of sha256 cryptocurrency mining 
 
-hashcash is a wifi based cryptocurrency miner with the ability to mine mh/s power in blocks on loomx programming for its own blockchain this software at 900,000 mh/s mines $130,500 cash a block every 8 seconds has live order book feature set up fro future use and automatically mines cryptocurrencies at rate of bitcoin type cash for hashcash power code below 
+hashcash is a wifi/mobile network based cryptocurrency miner with the ability to mine mh/s power in blocks on loomx programming for its own blockchain this software at 900,000 mh/s mines $130,500 cash a block every 8 seconds has live order book feature set up fro future use and automatically mines cryptocurrencies at rate of bitcoin type cash for hashcash power code below 
 
 
 
