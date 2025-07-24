@@ -1,5 +1,18 @@
 # Hashcash
 
+Update
+
+New liquidity added for each minded block on its own Sha 256 programming enjoy the bitcoin lifestyle 
+
+50% split between liqiudity pool and user 
+
+For example
+
+If token gives $13.50 for a block
+Half goes to liqiudity 
+half goes to user
+
+
 
 hash cash has the ability to set up users under 1776-17 admin or preferred admin account 
 
