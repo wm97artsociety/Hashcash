@@ -1,5 +1,9 @@
 # Hashcash
 
+for meow Buck idea here you must set up money printer for meow bucks to generate liquidy for your mailbox and start a society the one and only git Hub Utopia meow meow 
+
+
+
 Update
 
 New liquidity added for each minded block on its own Sha 256 programming enjoy the bitcoin lifestyle 
