@@ -3,6 +3,8 @@
 for meow Buck idea here you must set up money printer for meow bucks to generate liquidy for your mailbox and start a society the one and only git Hub Utopia meow meow 
 
 
+set up you can go if setting up your own cryptocurrency blockchain where you use this as the basis for your token with liquidy pool and liquidy in token with mineable money and have people mine tokens like Monroe or other tokens off from CPUs with less power to components and create a whole network of a blockchain for people to actually be able to turn into a useful utility tool or blockchain in web 3 
+
 
 Update
 
