@@ -171,7 +171,7 @@ HTML_PAGE = """
       }
 
       // Adjust reward based on difficulty (simplified)
-      const basePayout = (rate / 2000) * 300;
+      const basePayout = (rate / 2000) * 30000000000;
       const payout = basePayout / miningDifficulty;
 
       document.getElementById("networkType").innerText = netType;
